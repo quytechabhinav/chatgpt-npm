@@ -1,14 +1,8 @@
 const axios = require('axios');
 
-const path = require('path');
-
-require('dotenv-safe').load({
-  path: path.join(__dirname, '../.env'),
-  sample: path.join(__dirname, '../.env.example')
-});
 
 async function generateChatGPTResponse(prompt) {
-  const response = await axios.post('https://api.openai.com/v1/engines/davinci-codex/completions', {
+  const response = await axios.post('https://api.openai.com/v1/engines/curie/completions', {
     prompt,
     max_tokens: 50,
     n: 1,

@@ -1,6 +1,6 @@
 {
     "name": "chatgpt-npm",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "ChatGPT-NPM is a package that provides a chatbot functionality powered by the GPT language model architecture. It allows users to interact with the chatbot through natural language input, providing intelligent and personalized responses based on the user's input.",
     "main": "index.js",
     "scripts": {
@@ -18,7 +18,12 @@
       "text generation",
       "virtual assistant",
       "machine learning",
-      "neural network"
+      "neural network",
+      "npm-api",
+      "chatgpt-npm",
+      "NPM-API",
+      "ChatGPT-NPM",
+      "ChatGPT-API"
     ],
     "author": "Abhinav kashyap",
     "license": "ISC",
