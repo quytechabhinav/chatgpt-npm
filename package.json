@@ -1,42 +1,40 @@
 {
     "name": "chatgpt-npm",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "ChatGPT-NPM is a package that provides a chatbot functionality powered by the GPT language model architecture. It allows users to interact with the chatbot through natural language input, providing intelligent and personalized responses based on the user's input.",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-      "chatbot",
-      "conversational AI",
-      "natural language processing",
-      "GPT-3",
-      "language model",
-      "artificial intelligence",
-      "NLP",
-      "deep learning",
-      "text generation",
-      "virtual assistant",
-      "machine learning",
-      "neural network",
-      "npm-api",
-      "chatgpt-npm",
-      "NPM-API",
-      "ChatGPT-NPM",
-      "ChatGPT-API"
+        "chatbot",
+        "conversational AI",
+        "natural language processing",
+        "GPT-3",
+        "language model",
+        "artificial intelligence",
+        "NLP",
+        "machine learning",
+        "npm-api",
+        "chatgpt-npm",
+        "NPM-API",
+        "ChatGPT-NPM",
+        "ChatGPT-API",
+        "openai",
+        "OpenAI-Chatbot"
     ],
     "author": "Abhinav kashyap",
     "license": "ISC",
     "dependencies": {
-      "axios": "^1.3.4"
+        "axios": "^1.3.4",
+        "openai": "^3.2.1"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/quytechabhinav/chatgpt-npm"
+        "type": "git",
+        "url": "https://github.com/quytechabhinav/chatgpt-npm"
     },
     "bugs": {
-      "url": "https://github.com/quytechabhinav/chatgpt-npm/issues"
+        "url": "https://github.com/quytechabhinav/chatgpt-npm/issues"
     },
     "homepage": "https://github.com/quytechabhinav/chatgpt-npm#readme"
-  }
-  
+}
