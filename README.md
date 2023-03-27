@@ -4,7 +4,7 @@ chatgpt-npm is NPM package provide a powerful tool that allows Node.js developer
 
 
 # Table of Contents
-   * [Features](#hatgpt-npm NPM Package)
+   * [Features](#chatgpt-npm)
    * [Getting Started](#Installation)
       * [Usage](#usage)
          * [Example](#example)
